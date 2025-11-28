@@ -12,24 +12,15 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
  
   ### Sales & Profits
   
-   #### Total Sales = 
-   SUM(FactSales[Sale Value])
-   #### Total Revenue = 
-   SUMX(FactSales,FactSales[OrderQuantity]*RELATED(DimProduct[ProductPrice]))
-   #### Total Cost = 
-   SUMX(FactSales,FactSales[OrderQuantity]*RELATED(DimProduct[ProductCost]))
-   #### Net Profit = 
-   [Total Revenue]-[Total Cost]
-   #### Profit Margin = 
-   DIVIDE([Net Profit], [Total Revenue], BLANK())
-   #### Profit Target = 
-   [PM Profit]*1.1
-   #### Profit Target Gap = 
-   [Net Profit]-[Profit Target]
-   #### Revenue Target = 
-   [PM Revenue]*1.1
-   #### Revenue Target Gap = 
-   [Total Revenue]-[Revenue Target]
+                                   Total Sales = SUM(FactSales[Sale Value])
+                                   Total Revenue = SUMX(FactSales,FactSales[OrderQuantity]*RELATED(DimProduct[ProductPrice]))
+                                   Total Cost = SUMX(FactSales,FactSales[OrderQuantity]*RELATED(DimProduct[ProductCost]))
+                                   Net Profit = [Total Revenue]-[Total Cost]
+                                   Profit Margin = DIVIDE([Net Profit], [Total Revenue], BLANK())
+                                   Profit Target = [PM Profit]*1.1
+                                   Profit Target Gap = [Net Profit]-[Profit Target]
+                                   Revenue Target = [PM Revenue]*1.1
+                                   Revenue Target Gap = [Total Revenue]-[Revenue Target]
 
    ### Orders
    
