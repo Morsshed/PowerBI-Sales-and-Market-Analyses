@@ -35,12 +35,12 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
    
                                     Number of Orders = DISTINCTCOUNT(FactSales[OrderNumber])
                                     AOV = DIVIDE([Total Revenue], [# of Orders], BLANK())
-   AVG Basket Size = DIVIDE([Quantity Ordered], [# of Orders], BLANK())
-   Order Target = [PM Order]*1.1
-   Order Target Gap = [# of Orders]- [Order Target]
-   PM Order = CALCULATE([# of Orders], DATEADD(DimDate[Date],-1,MONTH))
-   Price Per Item = DIVIDE([Total Revenue],[Quantity Ordered], BLANK())
-   Quantity Ordered = sum(FactSales[OrderQuantity])
+                                    AVG Basket Size = DIVIDE([Quantity Ordered], [# of Orders], BLANK())
+                                    Order Target = [PM Order]*1.1
+                                    Order Target Gap = [# of Orders]- [Order Target]
+                                    PM Order = CALCULATE([# of Orders], DATEADD(DimDate[Date],-1,MONTH))
+                                    Price Per Item = DIVIDE([Total Revenue],[Quantity Ordered], BLANK())
+                                    Quantity Ordered = sum(FactSales[OrderQuantity])
   
 
 
