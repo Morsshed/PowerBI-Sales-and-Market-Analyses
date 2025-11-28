@@ -9,6 +9,7 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
  # A3.1 - Calculated Tables
  # A3.2 - Calculated Columns
  # A3.3 - Calculated Measures (KPI Measures)
+ 
   ### Sales & Profits
   Total Sales = SUM(FactSales[Sale Value])
   Total Revenue = 
