@@ -6,10 +6,16 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
 # A1 - Data Preparation (ETL & Load)
 # A2 - Data Modelling (Relationship)
 
-                                         Fact Tables
+                                         Fact Tables:
                                                1. Fact Sales
                                                2. Fact Returns
-                                         Dimension Tables
+                                         Dimension Tables:
+                                               1. Dim Customer
+                                               2. Dim Date
+                                               3. Dim Product
+                                               4. Dim Category
+                                               5. Dim SubCategory
+                                               6. Dim Territory
 
   ## A2.1 - Model
 
