@@ -4,6 +4,8 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
 # Analysis Details
  ## i. Business Case
  ## ii. Snapshots
+ ![Snapshot of Sales Analytics Dashboard](https://github.com/Morsshed/1.-Power-BI-E-Commerce-Sales-Analysis/blob/main/Snapshot%20of%20Sales%20Analytics%20Dashboard.jpeg?raw=true)
+
  ## iii. Dashboard Features
  ## iv. Insights and Recommendation
  ## v. Data Source
