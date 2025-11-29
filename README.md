@@ -12,7 +12,8 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
   
   # A2.2 - Cardinality
 
-  
+![Table Cardinality](https://github.com/Morsshed/1.-Power-BI-E-Commerce-Sales-Analysis/blob/main/Table%20Cardinality.png?raw=true) 
+
   # A2.3 - Filter Direction
 
 
