@@ -5,6 +5,16 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
 # A - Analysis Techniques:
 # A1 - Data Preparation (ETL & Load)
 # A2 - Data Modelling (Relationship)
+
+  # A2.1 - Model
+
+  
+  # A2.2 - Cardinality
+
+  
+  # A2.3 - Filter Direction
+
+
 # A3 - DAX
 
  # A3.1 - Calculated Tables
