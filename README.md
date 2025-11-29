@@ -8,6 +8,10 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
 
   # A2.1 - Model
 
+<img width="1143" height="731" alt="Data Modelling" src="https://github.com/user-attachments/assets/8ec9d495-bab7-4bb0-a9f9-9d7a887b357c" />
+
+
+
   
   # A2.2 - Cardinality
 
