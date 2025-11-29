@@ -6,6 +6,11 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
 # A1 - Data Preparation (ETL & Load)
 # A2 - Data Modelling (Relationship)
 
+                                         Fact Tables
+                                               1. Fact Sales
+                                               2. Fact Returns
+                                         Dimension Tables
+
   ## A2.1 - Model
 
 ![Data Modelling](https://github.com/Morsshed/1.-Power-BI-E-Commerce-Sales-Analysis/blob/main/Data%20Modelling.png?raw=true) 
