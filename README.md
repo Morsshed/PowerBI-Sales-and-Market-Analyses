@@ -150,7 +150,7 @@ This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Cust
 
 # B - Analyses and Interactivities:
   ## B1 - KPI and Trend Analysis
-  ![KPI and Trend Analysis] (https://github.com/Morsshed/1.-Power-BI-E-Commerce-Sales-Analysis/blob/main/KPI%20and%20Trend%20Analysis.png?raw=true)
+
   ## B2 - Territory Analysis
   ## B3 - Customer Analysis
   ![Customer Analysis](https://github.com/Morsshed/1.-Power-BI-E-Commerce-Sales-Analysis/blob/main/Customer%20Analysis.png?raw=true)
