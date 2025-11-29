@@ -2,6 +2,11 @@
 This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Customer Analysis and Product Analysis
 
 # Analysis Details
+ ## i. Business Case
+ ## ii. Snapshots
+ ## iii. Dashboard Features
+ ## iv. Insights and Recommendation
+ ## v. Data Source
 # A - Analysis Techniques:
 # A1 - Data Preparation (ETL & Load)
 # A2 - Data Modelling (Relationship)
