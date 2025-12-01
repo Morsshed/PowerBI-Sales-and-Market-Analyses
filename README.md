@@ -1,5 +1,7 @@
 # 1. Power-BI: E-Commerce-Sales-Analysis
 This project includes Sales Analysis &amp; Forecasting, Territory Analysis, Customer Analysis and Product Analysis
+[Interactive Power BI Dashboard](https://app.powerbi.com/links/vzj5lc0EBf?ctid=1a9383ff-5e01-493c-812f-84803e9b0b7b&pbi_source=linkShare)
+
 
 # Analysis Details
  ## i. Business Case
