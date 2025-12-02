@@ -38,7 +38,7 @@ This project provides a structured analytical approach to uncover these issues a
                                               1. Tooltips : Matrix in Line Chart
                                               2. Drill Through : Table Chart with Gauge Charts
                                               3. Drill Down : Stacked Bar Charts
-                                              4. Filed Parameter :                   
+                                              4. Filed Parameter : Sales Metrics                  
                              Analytical Features:
                                               1. KPI Cards : Total Orders, Total Revenue, Net Profit, Profit Margin and Rate of Return
                                               2. Stacked Bard Chart: Number of Orders by Category and Sub Category
